@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d44510f44d95359b188b",
+    "revision": "52f502aae320df562902",
     "url": "/artmoon/static/css/main.cfcb42be.chunk.css"
   },
   {
-    "revision": "d44510f44d95359b188b",
-    "url": "/artmoon/static/js/main.d44510f4.chunk.js"
+    "revision": "52f502aae320df562902",
+    "url": "/artmoon/static/js/main.52f502aa.chunk.js"
   },
   {
     "revision": "b95f6fcd338a4870ef47",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/artmoon/static/media/cloud02.96fd6397.png"
   },
   {
-    "revision": "866a3f83d30e42c68d6dcaa14ea3bddf",
+    "revision": "36a257b92ddfacb5399475c06e52438b",
     "url": "/artmoon/index.html"
   }
 ];

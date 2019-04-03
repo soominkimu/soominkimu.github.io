@@ -1,7 +1,7 @@
 {
   "main.css": "/artmoon/static/css/main.cfcb42be.chunk.css",
-  "main.js": "/artmoon/static/js/main.d44510f4.chunk.js",
-  "main.js.map": "/artmoon/static/js/main.d44510f4.chunk.js.map",
+  "main.js": "/artmoon/static/js/main.52f502aa.chunk.js",
+  "main.js.map": "/artmoon/static/js/main.52f502aa.chunk.js.map",
   "static/js/1.b95f6fcd.chunk.js": "/artmoon/static/js/1.b95f6fcd.chunk.js",
   "static/js/1.b95f6fcd.chunk.js.map": "/artmoon/static/js/1.b95f6fcd.chunk.js.map",
   "runtime~main.js": "/artmoon/static/js/runtime~main.40a700df.js",
@@ -9,6 +9,6 @@
   "static/media/cloud02.png": "/artmoon/static/media/cloud02.96fd6397.png",
   "static/css/main.cfcb42be.chunk.css.map": "/artmoon/static/css/main.cfcb42be.chunk.css.map",
   "index.html": "/artmoon/index.html",
-  "precache-manifest.03a8aed91a55253d4a7d1d8cbe91a3d1.js": "/artmoon/precache-manifest.03a8aed91a55253d4a7d1d8cbe91a3d1.js",
+  "precache-manifest.52387ab4d60b3333c5b1d52ae5c895c9.js": "/artmoon/precache-manifest.52387ab4d60b3333c5b1d52ae5c895c9.js",
   "service-worker.js": "/artmoon/service-worker.js"
 }
