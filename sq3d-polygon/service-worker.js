@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sq3d-polygons/precache-manifest.03ccb4aa099a27c270d28a9678dc37ba.js"
+  "/sq3d-polygon/precache-manifest.e7abfe4098e6134f9ce6dfc2816ae552.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sq3d-polygons/index.html", {
+workbox.routing.registerNavigationRoute("/sq3d-polygon/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

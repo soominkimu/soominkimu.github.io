@@ -1,13 +1,13 @@
 {
-  "main.css": "/sq3d-polygons/static/css/main.e50146b9.chunk.css",
-  "main.js": "/sq3d-polygons/static/js/main.0f4c8262.chunk.js",
-  "main.js.map": "/sq3d-polygons/static/js/main.0f4c8262.chunk.js.map",
-  "runtime~main.js": "/sq3d-polygons/static/js/runtime~main.88198f10.js",
-  "runtime~main.js.map": "/sq3d-polygons/static/js/runtime~main.88198f10.js.map",
-  "static/js/2.0f58faaa.chunk.js": "/sq3d-polygons/static/js/2.0f58faaa.chunk.js",
-  "static/js/2.0f58faaa.chunk.js.map": "/sq3d-polygons/static/js/2.0f58faaa.chunk.js.map",
-  "index.html": "/sq3d-polygons/index.html",
-  "precache-manifest.03ccb4aa099a27c270d28a9678dc37ba.js": "/sq3d-polygons/precache-manifest.03ccb4aa099a27c270d28a9678dc37ba.js",
-  "service-worker.js": "/sq3d-polygons/service-worker.js",
-  "static/css/main.e50146b9.chunk.css.map": "/sq3d-polygons/static/css/main.e50146b9.chunk.css.map"
+  "main.css": "/sq3d-polygon/static/css/main.e50146b9.chunk.css",
+  "main.js": "/sq3d-polygon/static/js/main.0e987cec.chunk.js",
+  "main.js.map": "/sq3d-polygon/static/js/main.0e987cec.chunk.js.map",
+  "runtime~main.js": "/sq3d-polygon/static/js/runtime~main.dbcb13dc.js",
+  "runtime~main.js.map": "/sq3d-polygon/static/js/runtime~main.dbcb13dc.js.map",
+  "static/js/2.0f58faaa.chunk.js": "/sq3d-polygon/static/js/2.0f58faaa.chunk.js",
+  "static/js/2.0f58faaa.chunk.js.map": "/sq3d-polygon/static/js/2.0f58faaa.chunk.js.map",
+  "index.html": "/sq3d-polygon/index.html",
+  "precache-manifest.e7abfe4098e6134f9ce6dfc2816ae552.js": "/sq3d-polygon/precache-manifest.e7abfe4098e6134f9ce6dfc2816ae552.js",
+  "service-worker.js": "/sq3d-polygon/service-worker.js",
+  "static/css/main.e50146b9.chunk.css.map": "/sq3d-polygon/static/css/main.e50146b9.chunk.css.map"
 }
