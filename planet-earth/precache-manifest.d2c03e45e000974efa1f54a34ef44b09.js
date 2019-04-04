@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "72620d75849fa46487de",
-    "url": "/planet-earth/static/css/main.ad240412.chunk.css"
+    "revision": "242b52fa4a8f000b5847",
+    "url": "/planet-earth/static/css/main.45e8b929.chunk.css"
   },
   {
-    "revision": "72620d75849fa46487de",
-    "url": "/planet-earth/static/js/main.72620d75.chunk.js"
+    "revision": "242b52fa4a8f000b5847",
+    "url": "/planet-earth/static/js/main.242b52fa.chunk.js"
   },
   {
     "revision": "bea3587c8e9823f8ed52",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/planet-earth/static/js/runtime~main.28490b51.js"
   },
   {
-    "revision": "e2c85236aab3f3880b269029041d0924",
+    "revision": "b5b6436191c1af28f789a17e4f39dea1",
     "url": "/planet-earth/index.html"
   }
 ];

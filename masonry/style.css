@@ -68,6 +68,7 @@ code, pre, samp {
 img, video {
   max-width: 100%;
   vertical-align: middle;
+  
 }
 
 p:not(:last-child) {
@@ -109,7 +110,7 @@ html {
   box-sizing: inherit;
 }
 .wrapper { 
-  max-width: 1280px;
+  //max-width: 1024px;
   margin-right: auto;
   margin-left: auto;
   padding: 1.5em;
@@ -122,35 +123,36 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1em;
   font-weight: bold;
-  color: #222;
+  color: DimGray;
+  text-shadow: 1px 1px #222;
   text-align: center;
+}
+.masonry-header-sub {
+  font-size: .8rem;
+  color: DarkGray;
 }
 .masonry-wrapper {
   padding-left: 1em;
   padding-right: 1em;
-  max-width: 960px;
+  //max-width: 960px;
   margin-right: auto;
   margin-left: auto;
 }
 .masonry {
   columns: 1;
-  column-gap: 10px;
+  column-gap: 15px;
 }
 .masonry-item {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   display: inline-block;
   vertical-align: top;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
-@media only screen and (max-width: 1023px) and (min-width: 768px) {  .masonry {
-    columns: 2;
-  }
-}
-@media only screen and (min-width: 1024px) {
-  .masonry {
-    columns: 3;
-  }
-}
+@media only screen and (min-width:  400px) and (max-width:  650px) { .masonry { columns: 2; } }
+@media only screen and (min-width:  651px) and (max-width:  900px) { .masonry { columns: 3; } }
+@media only screen and (min-width:  901px) and (max-width: 1150px) { .masonry { columns: 4; } }
+@media only screen and (min-width: 1151px) and (max-width: 1400px) { .masonry { columns: 5; } }
+@media only screen and (min-width: 1401px)                         { .masonry { columns: 6; } }
 .masonry-item, .masonry-content {
   border-radius: 4px;
   overflow: hidden;
@@ -161,6 +163,10 @@ body {
 }
 .masonry-item:hover {
   filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, .3));
+}
+.masonry-nb {
+  font-size: .7rem;
+  color: red;
 }
 .masonry-content {
   overflow: hidden;
