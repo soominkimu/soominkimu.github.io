@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7187c7e1b5d13aaf4f00",
+    "revision": "a53fc17ff76a22bc7e47",
     "url": "/sq3d-polygon/static/css/main.e50146b9.chunk.css"
   },
   {
-    "revision": "7187c7e1b5d13aaf4f00",
-    "url": "/sq3d-polygon/static/js/main.0e987cec.chunk.js"
+    "revision": "a53fc17ff76a22bc7e47",
+    "url": "/sq3d-polygon/static/js/main.8c8d14d5.chunk.js"
   },
   {
     "revision": "711c6de1fd1b9d2c4103",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/sq3d-polygon/static/js/2.0f58faaa.chunk.js"
   },
   {
-    "revision": "f457c81b320cbe791517a9d8cb532ecd",
+    "revision": "bac437327850285ceaeb286828aae3af",
     "url": "/sq3d-polygon/index.html"
   }
 ];

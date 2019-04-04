@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sq3d-polygon/precache-manifest.e7abfe4098e6134f9ce6dfc2816ae552.js"
+  "/sq3d-polygon/precache-manifest.7d5f8a5c1072b1fdfd87f848ebaa5f7f.js"
 );
 
 workbox.clientsClaim();
