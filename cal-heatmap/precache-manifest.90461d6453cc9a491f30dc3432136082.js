@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "65d6beea81e5d8064403",
+    "revision": "c10cb1dbd12520fbfc34",
     "url": "/cal-heatmap/static/css/main.d747a4dd.chunk.css"
   },
   {
-    "revision": "65d6beea81e5d8064403",
-    "url": "/cal-heatmap/static/js/main.65d6beea.chunk.js"
+    "revision": "c10cb1dbd12520fbfc34",
+    "url": "/cal-heatmap/static/js/main.c10cb1db.chunk.js"
   },
   {
     "revision": "e03bd3fbe9525db3d028",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/cal-heatmap/static/js/runtime~main.cf488fe2.js"
   },
   {
-    "revision": "b73cd63b67fc1be680b8fcd30e8abffd",
+    "revision": "b38e1ccfe38e95077756a9221ca6391f",
     "url": "/cal-heatmap/index.html"
   }
 ];
