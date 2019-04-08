@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/heatmap-tokyo/precache-manifest.a24c0486c4e5f65edfd5a549f860a687.js"
+  "/P/heatmap-tokyo/precache-manifest.efc3d23b48d73612fc49529b3b8273cc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/heatmap-tokyo/index.html", {
+workbox.routing.registerNavigationRoute("/P/heatmap-tokyo/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

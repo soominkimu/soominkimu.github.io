@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cal-heatmap/precache-manifest.90461d6453cc9a491f30dc3432136082.js"
+  "/P/cal-heatmap/precache-manifest.da22b80463093276f514d4e5db665492.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/cal-heatmap/index.html", {
+workbox.routing.registerNavigationRoute("/P/cal-heatmap/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

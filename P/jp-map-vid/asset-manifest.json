@@ -1,13 +1,13 @@
 {
-  "main.css": "/jp-map-vid/static/css/main.9240e2a9.chunk.css",
-  "main.js": "/jp-map-vid/static/js/main.5775d30a.chunk.js",
-  "main.js.map": "/jp-map-vid/static/js/main.5775d30a.chunk.js.map",
-  "runtime~main.js": "/jp-map-vid/static/js/runtime~main.d5060686.js",
-  "runtime~main.js.map": "/jp-map-vid/static/js/runtime~main.d5060686.js.map",
-  "static/js/2.c918c645.chunk.js": "/jp-map-vid/static/js/2.c918c645.chunk.js",
-  "static/js/2.c918c645.chunk.js.map": "/jp-map-vid/static/js/2.c918c645.chunk.js.map",
-  "index.html": "/jp-map-vid/index.html",
-  "precache-manifest.f793dceb34cdf720b3546321321a17e5.js": "/jp-map-vid/precache-manifest.f793dceb34cdf720b3546321321a17e5.js",
-  "service-worker.js": "/jp-map-vid/service-worker.js",
-  "static/css/main.9240e2a9.chunk.css.map": "/jp-map-vid/static/css/main.9240e2a9.chunk.css.map"
+  "main.css": "/P/jp-map-vid/static/css/main.077f58c9.chunk.css",
+  "main.js": "/P/jp-map-vid/static/js/main.31f3bd4c.chunk.js",
+  "main.js.map": "/P/jp-map-vid/static/js/main.31f3bd4c.chunk.js.map",
+  "runtime~main.js": "/P/jp-map-vid/static/js/runtime~main.a5763854.js",
+  "runtime~main.js.map": "/P/jp-map-vid/static/js/runtime~main.a5763854.js.map",
+  "static/js/2.c918c645.chunk.js": "/P/jp-map-vid/static/js/2.c918c645.chunk.js",
+  "static/js/2.c918c645.chunk.js.map": "/P/jp-map-vid/static/js/2.c918c645.chunk.js.map",
+  "index.html": "/P/jp-map-vid/index.html",
+  "precache-manifest.e88967dec10cf83d4d06d5a506b528b9.js": "/P/jp-map-vid/precache-manifest.e88967dec10cf83d4d06d5a506b528b9.js",
+  "service-worker.js": "/P/jp-map-vid/service-worker.js",
+  "static/css/main.077f58c9.chunk.css.map": "/P/jp-map-vid/static/css/main.077f58c9.chunk.css.map"
 }

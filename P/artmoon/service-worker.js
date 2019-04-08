@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/artmoon/precache-manifest.7d5ac39ad671813dd7f8ddffb1da4169.js"
+  "/P/artmoon/precache-manifest.0ebc3f793f39ebfadcaaff89bd371b02.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/artmoon/index.html", {
+workbox.routing.registerNavigationRoute("/P/artmoon/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

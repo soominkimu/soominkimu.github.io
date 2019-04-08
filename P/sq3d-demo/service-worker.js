@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sq3d-demo/precache-manifest.13cfd416fe712165a7d6140f13abdffb.js"
+  "/P/sq3d-demo/precache-manifest.bfb9ae9435e20a9a0743eaf0daed388c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sq3d-demo/index.html", {
+workbox.routing.registerNavigationRoute("/P/sq3d-demo/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

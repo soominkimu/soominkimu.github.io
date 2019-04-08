@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jp-map-vid/precache-manifest.f793dceb34cdf720b3546321321a17e5.js"
+  "/P/jp-map-vid/precache-manifest.e88967dec10cf83d4d06d5a506b528b9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jp-map-vid/index.html", {
+workbox.routing.registerNavigationRoute("/P/jp-map-vid/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
