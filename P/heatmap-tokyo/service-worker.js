@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/P/heatmap-tokyo/precache-manifest.b7e9901bf8559057280c72bb1210f1c1.js"
+  "/P/heatmap-tokyo/precache-manifest.a57db4a71003fcc6204bc1d95f0bfcfe.js"
 );
 
 workbox.clientsClaim();
