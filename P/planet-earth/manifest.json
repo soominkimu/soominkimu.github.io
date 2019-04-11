@@ -1,6 +1,6 @@
 {
-  "short_name": "planet-earth",
-  "name": "Planet Earth",
+  "short_name": "Planet-Earth",
+  "name": "Planet Earth WebGL",
   "icons": [
     {
       "src": "favicon.ico",
