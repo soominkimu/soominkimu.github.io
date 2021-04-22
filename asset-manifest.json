@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.92ab2e16.chunk.css",
-    "main.js": "/static/js/main.408311a6.chunk.js",
-    "main.js.map": "/static/js/main.408311a6.chunk.js.map",
+    "main.js": "/static/js/main.b7d8b52d.chunk.js",
+    "main.js.map": "/static/js/main.b7d8b52d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.70f657dd.js",
     "runtime-main.js.map": "/static/js/runtime-main.70f657dd.js.map",
     "static/js/2.3a77a327.chunk.js": "/static/js/2.3a77a327.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.92ab2e16.chunk.css.map": "/static/css/main.92ab2e16.chunk.css.map",
     "static/js/2.3a77a327.chunk.js.LICENSE.txt": "/static/js/2.3a77a327.chunk.js.LICENSE.txt",
     "static/media/Qlogo.97681b2e.png": "/static/media/Qlogo.97681b2e.png",
-    "static/media/c1.62d99239.png": "/static/media/c1.62d99239.png",
+    "static/media/c2.ad74f19a.png": "/static/media/c2.ad74f19a.png",
     "static/media/cus.bd5085f7.png": "/static/media/cus.bd5085f7.png",
     "static/media/App.scss": "/static/media/digital-7 (mono).ae951a18.ttf",
     "static/media/firebase.7840999a.svg": "/static/media/firebase.7840999a.svg",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.70f657dd.js",
     "static/js/2.3a77a327.chunk.js",
     "static/css/main.92ab2e16.chunk.css",
-    "static/js/main.408311a6.chunk.js"
+    "static/js/main.b7d8b52d.chunk.js"
   ]
 }
