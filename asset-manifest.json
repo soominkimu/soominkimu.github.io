@@ -1,12 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.82ac2189.chunk.css",
-    "main.js": "/static/js/main.452e9cd6.chunk.js",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "static/js/2.36047496.chunk.js": "/static/js/2.36047496.chunk.js",
+    "main.css": "/static/css/main.92ab2e16.chunk.css",
+    "main.js": "/static/js/main.408311a6.chunk.js",
+    "main.js.map": "/static/js/main.408311a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.70f657dd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.70f657dd.js.map",
+    "static/js/2.3a77a327.chunk.js": "/static/js/2.3a77a327.chunk.js",
+    "static/js/2.3a77a327.chunk.js.map": "/static/js/2.3a77a327.chunk.js.map",
+    "static/js/3.fc0fea79.chunk.js": "/static/js/3.fc0fea79.chunk.js",
+    "static/js/3.fc0fea79.chunk.js.map": "/static/js/3.fc0fea79.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.56fa992e7658218c5373985eb3db21b9.js": "/precache-manifest.56fa992e7658218c5373985eb3db21b9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/App.scss": "/static/media/digital-7 (mono).58045dab.ttf"
-  }
+    "static/css/main.92ab2e16.chunk.css.map": "/static/css/main.92ab2e16.chunk.css.map",
+    "static/js/2.3a77a327.chunk.js.LICENSE.txt": "/static/js/2.3a77a327.chunk.js.LICENSE.txt",
+    "static/media/Qlogo.97681b2e.png": "/static/media/Qlogo.97681b2e.png",
+    "static/media/c1.62d99239.png": "/static/media/c1.62d99239.png",
+    "static/media/cus.bd5085f7.png": "/static/media/cus.bd5085f7.png",
+    "static/media/App.scss": "/static/media/digital-7 (mono).ae951a18.ttf",
+    "static/media/firebase.7840999a.svg": "/static/media/firebase.7840999a.svg",
+    "static/media/nodejs.e8ae1f19.svg": "/static/media/nodejs.e8ae1f19.svg",
+    "static/media/react.0b093e51.svg": "/static/media/react.0b093e51.svg",
+    "static/media/redux.71eb13e2.svg": "/static/media/redux.71eb13e2.svg",
+    "static/media/sass.2dd903aa.svg": "/static/media/sass.2dd903aa.svg",
+    "static/media/tailwindcss.338a655a.svg": "/static/media/tailwindcss.338a655a.svg",
+    "static/media/ts.9ad81d2e.svg": "/static/media/ts.9ad81d2e.svg",
+    "static/media/webrtc.514908ac.svg": "/static/media/webrtc.514908ac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f657dd.js",
+    "static/js/2.3a77a327.chunk.js",
+    "static/css/main.92ab2e16.chunk.css",
+    "static/js/main.408311a6.chunk.js"
+  ]
 }
